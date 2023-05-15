@@ -1,0 +1,6 @@
+20230512	23:24:21	1339d4ff-9a4f-42a8-b405-3fe2b6c564d4	TypeError: fsPromises.readFil is not a function
+20230512	23:24:23	412e31b4-9e74-433e-ba60-307d3b7a1dcf	TypeError: fsPromises.readFil is not a function
+20230513	20:04:57	b995789d-63fc-4569-83ea-b937b3077cba	Error:Not allowed due to CORS
+20230513	22:28:57	04cd0354-908c-4395-a8c8-544544a8cd2e	Error:ENOENT: no such file or directory, stat '/Users/vegan.ravi/Documents/nodeJS/08TUT/views/subdir/test.html'
+20230513	22:29:02	7acfe3e2-3f18-417b-a996-bc6d0e06a963	Error:ENOENT: no such file or directory, stat '/Users/vegan.ravi/Documents/nodeJS/08TUT/views/subdir/test.html'
+20230513	22:29:15	1d06d1a7-8f37-46ad-bb30-1762f6cc0e6d	Error:ENOENT: no such file or directory, stat '/Users/vegan.ravi/Documents/nodeJS/08TUT/views/subdir/test.html'
